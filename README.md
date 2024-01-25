@@ -4,10 +4,8 @@
 
 <p>I'm a front-end developer and web designer specializing in professional website creation and user interface design. I'm passionate about art and technology in general. With over three years of freelance and in-house experience. Most of my projects are private, but feel free to see and give me feedback on public projects. I'm constantly searching for improvements, new challenges and creative collaborations, so don't hesitate to contact me if you need my skills.</p>
 
-<p>Perhaps soon</p> 
+<p>Perhaps soon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></p> 
 </div>
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/mP8GermRyOFWV8PQeq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bye-see-you-later-mP8GermRyOFWV8PQeq">via GIPHY</a></p>
 
 ## Languages, Frameworks and Tools
 
