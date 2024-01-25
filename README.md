@@ -2,7 +2,7 @@
     <h1> Hi there, I'm Dimitri Donatien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 
-    I'm a front-end developer and web designer specializing in professional website creation and user interface design. I'm passionate about art and technology in general. With over three years of freelance and in-house experience. Most of my projects are private, but feel free to see and give me feedback on public projects. I'm constantly searching for improvements, new challenges and creative collaborations, so don't hesitate to contact me if you need my skills.
+<p>I'm a front-end developer and web designer specializing in professional website creation and user interface design. I'm passionate about art and technology in general. With over three years of freelance and in-house experience. Most of my projects are private, but feel free to see and give me feedback on public projects. I'm constantly searching for improvements, new challenges and creative collaborations, so don't hesitate to contact me if you need my skills.</p>
 
     Perhaps soon 
 </div>
