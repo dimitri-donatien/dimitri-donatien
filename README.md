@@ -10,6 +10,7 @@
 ```html
 <iframe src="https://giphy.com/embed/mP8GermRyOFWV8PQeq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bye-see-you-later-mP8GermRyOFWV8PQeq">via GIPHY</a></p>
 ```
+ <img src="https://giphy.com/embed/mP8GermRyOFWV8PQeq" width="480px"/>
 
 ## Languages, Frameworks and Tools
 
