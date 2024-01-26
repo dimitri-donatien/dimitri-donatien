@@ -4,7 +4,16 @@
 
 <p>I'm a front-end developer and web designer specializing in professional website creation and user interface design. I'm passionate about art and technology in general. With over three years of freelance and in-house experience. Most of my projects are private, but feel free to see and give me feedback on public projects. I'm constantly searching for improvements, new challenges and creative collaborations, so don't hesitate to contact me if you need my skills.</p>
 
-<p>See you soon 😉</p> 
+<p>See you soon 😉</p>
+
+<p>You can find me here</p>
+
+<div  style="display: flex; flex-direction: column;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,markdown,html,css,sass,tailwind,js,ts,python,fastapi,nodejs,mongodb,mysql,postgresql,sqlite&theme=light"/> 
+  </a>
+</div>
+
 </div>
 
 ## Languages, Frameworks and Tools
