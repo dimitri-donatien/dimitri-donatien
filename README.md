@@ -9,10 +9,10 @@
 <p>You can find me here</p>
 
 <div  style="display: flex; align-items: center; justify-content: center; gap: 1rem">
-  <a href="">
+  <a href="https://www.linkedin.com/in/dimitri-d-828713164/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/> 
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/mrdims.network/?igsh=MXRtdzVoYWx1bG41Yw%3D%3D&utm_source=qr">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light"/> 
   </a>
 
