@@ -8,10 +8,14 @@
 
 <p>You can find me here</p>
 
-<div  style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,markdown,html,css,sass,tailwind,js,ts,python,fastapi,nodejs,mongodb,mysql,postgresql,sqlite&theme=light"/> 
+<div  style="display: flex; align-items: center; justify-content: center; gap: 1rem">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/> 
   </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light"/> 
+  </a>
+
 </div>
 
 </div>
