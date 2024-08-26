@@ -26,7 +26,7 @@
 
 <div  style="display: flex; flex-direction: column;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,markdown,html,css,sass,tailwind,js,ts,python,fastapi,nodejs,mongodb,mysql,postgresql,sqlite&theme=light"/> 
+    <img src="https://skillicons.dev/icons?i=bash,powershell,markdown,html,css,sass,tailwind,js,ts,python,nodejs,mongodb,mysql,postgresql,sqlite&theme=light"/> 
   </a>
 </div>
 
@@ -50,15 +50,7 @@
 
 <div  style="display: flex; flex-direction: column;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidjs,vue,react&theme=light"/>
-  </a>
-</div>
-
-### Frameworks being learned
-
-<div  style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nuxt&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=solidjs,vue&theme=light"/>
   </a>
 </div>
 
