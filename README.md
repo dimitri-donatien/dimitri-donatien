@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Hi there, I'm Dimitri Donatien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <h1> Hi there, I'm Dimitri.D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 
 <p>I'm a Full Stack Developer & DevOps Engineer specializing in building modern web applications and scalable infrastructure. With 5+ years of experience ranging from frontend development to DevOps practices, I design complete solutions from UI/UX to deployment pipelines. Currently focused on infrastructure automation, containerization, and CI/CD optimization.</p>
