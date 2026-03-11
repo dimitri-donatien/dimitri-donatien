@@ -105,4 +105,4 @@
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [Dimitri.D](https://www.linkedin.com/in/dimitri-d-828713164/)
-- 🌐 Portfolio: [Coming soon]
+- 🌐 Portfolio: [Dimitri Donatien](https://dimitri-donatien.com/)
