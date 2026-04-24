@@ -29,7 +29,7 @@
 
 <div style="display: flex; flex-direction: column;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,kubernetes,githubactions,gitlab&theme=light"/> 
+    <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,gitlab&theme=light"/> 
   </a>
 </div>
 
