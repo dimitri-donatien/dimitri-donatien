@@ -35,7 +35,7 @@ Always curious, constantly learning, and open to technical discussions and colla
 
 **Tools & Environment**
 
-![](https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,python&theme=light)
+![](https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,python,supabase&theme=light)
 
 **Design**
 
@@ -57,7 +57,7 @@ Always curious, constantly learning, and open to technical discussions and colla
 
 | Domain | Skills |
 |---|---|
-| 💻 **Full Stack Development** | PHP/Symfony, JavaScript/TypeScript, HTML/CSS, design systems |
+| 💻 **Full Stack Development** | FastAPI, JavaScript/TypeScript, HTML/CSS, design systems |
 | 🚀 **DevOps** | CI/CD (GitLab/GitHub Actions), Terraform, Ansible, monitoring |
 | 🔐 **Offensive Security** | Pentest methodology, reconnaissance, exploitation |
 | 🎨 **UI/UX & Design** | Figma, Adobe Suite, wireframing, style guides |
