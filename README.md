@@ -1,8 +1,8 @@
 <div align="center">
 
-# Salut, je suis Dimitri Donatien 👋
+# Hi, I'm Dimitri Donatien 👋
 
-### Développeur Web Full Stack & DevOps — En transition vers la Cybersécurité Offensive 🎯
+### Full Stack Web Developer & DevOps - Transitioning into Offensive Security 🎯
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dimitri-d-828713164/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dimitri-donatien.com/)
@@ -11,29 +11,29 @@
 
 ---
 
-## 👨‍💻 À propos
+## 👨‍💻 About
 
-Développeur web avec **4+ années d'expérience** en frontend, backend et automatisation d'infrastructure. Aujourd'hui en pleine reconversion vers la **cybersécurité offensive**, avec l'objectif d'évoluer vers des missions de pentest.
+Web developer with **4+ years of experience** in frontend, backend, and infrastructure automation. Currently transitioning into **offensive security**, with the goal of moving into penetration testing.
 
-Toujours curieux, en veille constante, et ouvert aux échanges techniques et collaborations.
+Always curious, constantly learning, and open to technical discussions and collaborations.
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
-**Développement**
+**Development**
 
-![](https://skillicons.dev/icons?i=php,symfony,js,ts,html,css,sass&theme=light)
+![](https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,solide&theme=light)
 
 **DevOps & Infrastructure**
 
 ![](https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,gitlab&theme=light)
 
-**Bases de données**
+**Databases**
 
 ![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=light)
 
-**Outils & Environnement**
+**Tools & Environment**
 
 ![](https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,python&theme=light)
 
@@ -43,40 +43,32 @@ Toujours curieux, en veille constante, et ouvert aux échanges techniques et col
 
 ---
 
-## 🔐 Transition Cybersécurité Offensive
+## 🔐 Offensive Security Transition
 
-- 🎯 Objectif : évoluer vers des missions de **pentest**
-- 📚 En apprentissage actif : méthodologies de pentest, outils offensifs (Burp Suite, Nmap, Metasploit), plateformes CTF (TryHackMe, Hack The Box)
-- 💡 Mon parcours dev + DevOps m'apporte une vision terrain des architectures et des CI/CD que j'apprends aujourd'hui à challenger
+- 🎯 Goal: move into **penetration testing** roles
+- 📚 Actively learning: pentest methodologies, offensive tools (Burp Suite, Nmap, Metasploit), CTF platforms (TryHackMe, Hack The Box)
+- 💡 My dev + DevOps background gives me a hands-on understanding of the architectures and CI/CD pipelines I'm now learning to challenge
 
-> *Je documenterai progressivement mes write-ups et projets CTF ici à mesure de ma progression.*
+> *I'll be documenting write-ups and CTF projects here as I progress.*
 
 ---
 
-## 💼 Domaines d'expertise
+## 💼 Areas of Expertise
 
-| Domaine | Compétences |
+| Domain | Skills |
 |---|---|
-| 💻 **Développement Full Stack** | PHP/Symfony, JavaScript/TypeScript, HTML/CSS, design systems |
-| 🚀 **DevOps & Infrastructure** | CI/CD (GitLab/GitHub Actions), Terraform, Ansible, monitoring |
-| 🔐 **Cybersécurité offensive** | Méthodologie pentest, reconnaissance, exploitation |
-| 🎨 **UI/UX & Design** | Figma, Adobe Suite, maquettage, chartes graphiques |
+| 💻 **Full Stack Development** | PHP/Symfony, JavaScript/TypeScript, HTML/CSS, design systems |
+| 🚀 **DevOps** | CI/CD (GitLab/GitHub Actions), Terraform, Ansible, monitoring |
+| 🔐 **Offensive Security** | Pentest methodology, reconnaissance, exploitation |
+| 🎨 **UI/UX & Design** | Figma, Adobe Suite, wireframing, style guides |
 
 ---
 
-## 📈 Statistiques GitHub
+## 📫 Get in Touch
+
+- 💼 **LinkedIn**: [Dimitri Donatien](https://www.linkedin.com/in/dimitri-d-828713164/)
+- 🌐 **Portfolio**: [dimitri-donatien.com](https://www.dimitri-donatien.com/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=default&hide_border=true" />
-</div>
-
----
-
-## 📫 Me contacter
-
-- 💼 **LinkedIn** : [Dimitri Donatien](https://www.linkedin.com/in/dimitri-d-828713164/)
-- 🌐 **Portfolio** : [dimitri-donatien.com](https://www.dimitri-donatien.com/)
-
-<div align="center">
-  <sub>Merci de votre visite ! N'hésitez pas à me laisser une étoile ⭐ si l'un de mes projets vous plaît.</sub>
+  <sub>Thanks for stopping by! Feel free to leave a ⭐ if you like any of my projects.</sub>
 </div>
