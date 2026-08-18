@@ -35,7 +35,7 @@ Always curious, constantly learning, and open to technical discussions and colla
 
 **Tools & Environment**
 
-![](https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,python,supabase&theme=light)
+![](https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,python&theme=light)
 
 **Design**
 
