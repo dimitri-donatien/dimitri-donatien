@@ -23,11 +23,11 @@ Always curious, constantly learning, and open to technical discussions and colla
 
 **Development**
 
-![](https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,solide&theme=light)
+![](https://skillicons.dev/icons?i=js,ts,html,css,sass,vue&theme=light)
 
 **DevOps & Infrastructure**
 
-![](https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,gitlab&theme=light)
+![](https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,gitlab,grafana&theme=light)
 
 **Databases**
 
