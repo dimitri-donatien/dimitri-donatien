@@ -1,108 +1,82 @@
 <div align="center">
-    <h1> Hi there, I'm Dimitri.D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
 
-<p>I'm a Full Stack Developer & DevOps Engineer specializing in building modern web applications and scalable infrastructure. With 5+ years of experience ranging from frontend development to DevOps practices, I design complete solutions from UI/UX to deployment pipelines. Currently focused on infrastructure automation, containerization, and CI/CD optimization.</p>
+# Salut, je suis Dimitri Donatien 👋
 
-<p>Most of my projects are private, but feel free to explore my public repositories and give me feedback. I'm constantly learning and looking for new challenges and creative collaborations.</p>
+### Développeur Web Full Stack & DevOps — En transition vers la Cybersécurité Offensive 🎯
 
-<p>See you soon 😉</p>
-
-<p>You can find me here</p>
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 1rem">
-  <a href="https://www.linkedin.com/in/dimitri-d-828713164/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/> 
-  </a>
-  <a href="https://www.instagram.com/mrdims.network/?igsh=MXRtdzVoYWx1bG41Yw%3D%3D&utm_source=qr">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light"/> 
-  </a>
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dimitri-d-828713164/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dimitri-donatien.com/)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 À propos
 
-### DevOps & Infrastructure
+Développeur web avec **4+ années d'expérience** en frontend, backend et automatisation d'infrastructure. Aujourd'hui en pleine reconversion vers la **cybersécurité offensive**, avec l'objectif d'évoluer vers des missions de pentest.
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,gitlab&theme=light"/> 
-  </a>
-</div>
+Toujours curieux, en veille constante, et ouvert aux échanges techniques et collaborations.
 
-### Languages
+---
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,js,ts,html,css,sass,markdown&theme=light"/> 
-  </a>
-</div>
+## 🛠️ Stack Technique
 
-### Databases
+**Développement**
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=light"/>
-  </a>
-</div>
+![](https://skillicons.dev/icons?i=php,symfony,js,ts,html,css,sass&theme=light)
 
-### Frontend Frameworks & Tools
+**DevOps & Infrastructure**
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,solidjs,vite&theme=light"/>
-  </a>
-</div>
+![](https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,gitlab&theme=light)
 
-### Testing
+**Bases de données**
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,jest&theme=light"/>
-  </a>
-</div>
+![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=light)
 
-### Development Environment & Tools
+**Outils & Environnement**
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,nodejs,bun,linux,discord&theme=light"/>
-  </a>
-</div>
+![](https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash,python&theme=light)
 
-### Design Tools
+**Design**
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator&theme=light"/>
-  </a>
+![](https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator&theme=light)
+
+---
+
+## 🔐 Transition Cybersécurité Offensive
+
+- 🎯 Objectif : évoluer vers des missions de **pentest**
+- 📚 En apprentissage actif : méthodologies de pentest, outils offensifs (Burp Suite, Nmap, Metasploit), plateformes CTF (TryHackMe, Hack The Box)
+- 💡 Mon parcours dev + DevOps m'apporte une vision terrain des architectures et des CI/CD que j'apprends aujourd'hui à challenger
+
+> *Je documenterai progressivement mes write-ups et projets CTF ici à mesure de ma progression.*
+
+---
+
+## 💼 Domaines d'expertise
+
+| Domaine | Compétences |
+|---|---|
+| 💻 **Développement Full Stack** | PHP/Symfony, JavaScript/TypeScript, HTML/CSS, design systems |
+| 🚀 **DevOps & Infrastructure** | CI/CD (GitLab/GitHub Actions), Terraform, Ansible, monitoring |
+| 🔐 **Cybersécurité offensive** | Méthodologie pentest, reconnaissance, exploitation |
+| 🎨 **UI/UX & Design** | Figma, Adobe Suite, maquettage, chartes graphiques |
+
+---
+
+## 📈 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=default&hide_border=true" />
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 📫 Me contacter
 
-<div style="display: flex; flex-direction: column;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go&theme=light"/>
-  </a>
+- 💼 **LinkedIn** : [Dimitri Donatien](https://www.linkedin.com/in/dimitri-d-828713164/)
+- 🌐 **Portfolio** : [dimitri-donatien.com](https://www.dimitri-donatien.com/)
+
+<div align="center">
+  <sub>Merci de votre visite ! N'hésitez pas à me laisser une étoile ⭐ si l'un de mes projets vous plaît.</sub>
 </div>
-
----
-
-## 💼 What I Do
-
-- 🚀 **DevOps/Infrastructure**: CI/CD pipelines, Docker, Terraform, Ansible
-- 💻 **Full Stack Development**: Vue.js, Node.js, Python
-- 🎨 **UI/UX Design**: Design systems, Figma, Adobe Suite
-- 📦 **Automation**: Build processes, deployment automation, monitoring
-
----
-
-## 📫 Get in Touch
-
-- 💼 LinkedIn: [Dimitri.D](https://www.linkedin.com/in/dimitri-d-828713164/)
-- 🌐 Portfolio: [Dimitri Donatien](https://dimitri-donatien.com/)
